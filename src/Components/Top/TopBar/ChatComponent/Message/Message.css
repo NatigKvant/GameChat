@@ -1,0 +1,72 @@
+.message {
+    display: flex;
+}
+
+.message img {
+    height: 15px;
+    width: 15px;
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 12px;
+    border-radius: 20px 20px 20px 0;
+    background: #fff;
+    color: #000;
+    max-width: 225px;
+    min-width: auto;
+    margin-bottom: 8px;
+    margin-right: 10px;
+    margin-left: 10px;
+    word-wrap: break-word;
+    font-family: 'Rubik', sans-serif;
+}
+
+.chat.owner {
+    order: 1;
+    background: #212121;
+    color: #fff;
+    border-radius: 20px 20px 0 20px;
+}
+
+.message_time.owner {
+    margin-left: auto;
+    padding: 0;
+}
+
+.message_time {
+    display: flex;
+    margin: 8px;
+    padding: 20px;
+    padding-left: 0;
+    font-family: 'Rubik', sans-serif;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+
+.user_name {
+    display: flex;
+    flex-direction: row;
+    min-height: 20px;
+    font-size: 15px;
+    line-height: 14px;
+    color: #999999;
+}
+
+.hidden {
+    display: none;
+}
+
+.user_logo {
+    margin-right: 5px;
+}
+
+.gamer_level {
+    margin-left: 5px;
+    color: #23B838;
+}
+
+.gamer_rank {
+    margin-left: 5px;
+}

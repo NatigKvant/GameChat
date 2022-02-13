@@ -1,0 +1,39 @@
+.general-form {
+    height: calc(100% - 80px);
+}
+
+.general-chat {
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+    min-height: 300px;
+    max-height: 300px;
+    overflow-y: auto;
+    font-size: 13px;
+    line-height: 15px;
+    border: 1px solid black;
+}
+
+.input {
+    display: flex;
+    flex-direction: row;
+    border-radius: 0 0 20px 20px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.input input {
+    min-height: 40px;
+    width: 90%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    border-radius: 0 0 0 20px;
+    border: none;
+    outline: none;
+    color: #FFFFFF;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.emodji {
+    display: flex;
+    cursor: pointer;
+}

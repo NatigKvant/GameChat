@@ -1,0 +1,38 @@
+.top {
+    display: flex;
+    max-height: 14px;
+    padding: 11px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 20px 20px 0 0;
+}
+
+span {
+    font-size: 13px;
+    padding-left: 10px;
+    font-family: 'Rubik', sans-serif;
+}
+
+span a {
+    text-decoration: none;
+    color: green;
+
+}
+
+span a:hover {
+    color: white;
+}
+
+.active {
+    color: #FFFFFF;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #23B838;
+    text-transform: capitalize;
+}
+
+.resize {
+    cursor: pointer;
+}
+
+.minimize {
+    cursor: pointer;
+}

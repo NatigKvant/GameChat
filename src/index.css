@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    max-height: 100%;
+    max-width: 100%;
+    align-items: center;
+    padding-top: 350px;
+    margin: 0;
+    background: url(https://img5.goodfon.ru/wallpaper/nbig/1/ab/elisabeth-aksenova-game-location-art-fantaziia-detskaia-ostr.jpg);
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

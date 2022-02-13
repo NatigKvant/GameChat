@@ -1,0 +1,9 @@
+.select {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    background-color: rgba(100, 100, 100, 0.1);
+    color: white;
+    border-color: white;
+    border-style: none;
+}

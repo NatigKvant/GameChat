@@ -1,0 +1,7 @@
+.app {
+    max-width: 368px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    z-index: 0;
+    transition: all ease 1s;
+}
