@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import './App.css'
 import Top from './Components/Top/Top'
-import {BrowserRouter, Route, Switch, Redirect} from 'react-router-dom'
+import {/*BrowserRouter*/ Route, Switch, Redirect, HashRouter} from 'react-router-dom'
 import GeneralChat from './Components/Top/TopBar/Chats/GeneralChat/GeneralChat'
 import ClanChat from './Components/Top/TopBar/Chats/ClanChat/ClanChat'
 import FriendsChat from './Components/Top/TopBar/Chats/FriendsChat/FriendsChat'
@@ -16,7 +16,7 @@ const App: React.FC = () => {
     }
 
     return (
-        <BrowserRouter>
+        <HashRouter>
             <div className='app' style={{transform: (windowSize ? 'scale(1.5)' : '')}}>
                 <Top appResize={appResize}
                      windowSize={windowSize}
@@ -42,7 +42,7 @@ const App: React.FC = () => {
                     />
                 </Switch>
             </div>
-        </BrowserRouter>
+        </HashRouter>
     )
 }
 
