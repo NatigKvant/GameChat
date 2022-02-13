@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GameChat/static/css/main.10456d38.chunk.css",
-    "main.js": "/GameChat/static/js/main.b454df2a.chunk.js",
-    "main.js.map": "/GameChat/static/js/main.b454df2a.chunk.js.map",
+    "main.js": "/GameChat/static/js/main.d4d192ac.chunk.js",
+    "main.js.map": "/GameChat/static/js/main.d4d192ac.chunk.js.map",
     "runtime-main.js": "/GameChat/static/js/runtime-main.3c0c5702.js",
     "runtime-main.js.map": "/GameChat/static/js/runtime-main.3c0c5702.js.map",
-    "static/js/2.419e6632.chunk.js": "/GameChat/static/js/2.419e6632.chunk.js",
-    "static/js/2.419e6632.chunk.js.map": "/GameChat/static/js/2.419e6632.chunk.js.map",
+    "static/js/2.fef30ef6.chunk.js": "/GameChat/static/js/2.fef30ef6.chunk.js",
+    "static/js/2.fef30ef6.chunk.js.map": "/GameChat/static/js/2.fef30ef6.chunk.js.map",
     "index.html": "/GameChat/index.html",
     "static/css/main.10456d38.chunk.css.map": "/GameChat/static/css/main.10456d38.chunk.css.map",
-    "static/js/2.419e6632.chunk.js.LICENSE.txt": "/GameChat/static/js/2.419e6632.chunk.js.LICENSE.txt",
+    "static/js/2.fef30ef6.chunk.js.LICENSE.txt": "/GameChat/static/js/2.fef30ef6.chunk.js.LICENSE.txt",
     "static/media/BLogo.9d397359.svg": "/GameChat/static/media/BLogo.9d397359.svg",
     "static/media/BlueLogo.cd58fbe6.svg": "/GameChat/static/media/BlueLogo.cd58fbe6.svg",
     "static/media/emodji.714bf701.svg": "/GameChat/static/media/emodji.714bf701.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3c0c5702.js",
-    "static/js/2.419e6632.chunk.js",
+    "static/js/2.fef30ef6.chunk.js",
     "static/css/main.10456d38.chunk.css",
-    "static/js/main.b454df2a.chunk.js"
+    "static/js/main.d4d192ac.chunk.js"
   ]
 }
